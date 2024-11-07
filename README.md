@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**JongsunChung/JongsunChung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+##I'm studying Git now.
+**There's nothing to see yet.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔
+- ```
+{
+  "firstName": "Chung",
+  "lastName": "Jongsun",
+  "age": 25
+}
+```
